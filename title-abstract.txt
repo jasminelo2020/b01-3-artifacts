@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Enhancing Emotion Recognition in AI: A CLIP-Dissect Approach
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+This paper looks at how CLIP-Dissect can make emotion recognition systems better. Currently, the best method to classify emotions based on an image is with deep learning, a rapidly growing field with state of the art performance in visual tasks. However, it is unclear what is happening within deep learning models that leads to such strong performance, often being nicknamed a “black box.”  With the development of CLIP-Dissect, which is a tool to easily interpret the role of deep neural network neurons, we seek to understand how a model classifies emotions and how to improve its performance by manipulating neurons with specific functions.
