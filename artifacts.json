@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/jasminelo2020/b01-3-artifacts",
+    "project-repository": "https://github.com/kier0813/emotion_clip",
+    "project-website-url": "https://jasminelo2020.github.io/EmotionRecognition/",
+    "project-website-code": "https://github.com/jasminelo2020/EmotionRecognition"
 }
